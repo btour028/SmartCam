@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SMARTCAM</string>
+
+    <!-- Page d'acceuil -->
+    <string name="home_page_title">WELCOME TO YOUR MOBILE APPLICATION</string>
+    <string name="home_page_button">START</string>
+
+    <!-- Page principale -->
+    <string name="principal_page_title">WELCOME TO YOUR MOBILE APPLICATION</string>
+
+</resources>
